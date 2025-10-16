@@ -1,4 +1,5 @@
 # Job‑Fraud Detection for Recruiting Platforms
+<img width="700" height="500" alt="job-scam-images" src="https://github.com/user-attachments/assets/3577be12-938c-4f95-a80c-2d0055520092" />
 
 ## 1 Overview
 Recruiting sites lose money and user trust when fake job ads harvest personal data or fees.  
